@@ -15,7 +15,7 @@ Aplikasi Android lengkap yang dibangun dengan Java dan Android Studio, menampilk
 
 | Splash Screen | Form Biodata | Daftar Kontak |
 |---------------|--------------|---------------|
-| <img src="MyProfilApp/screenshots/Splash.png" width="200" alt="Splash Screen"> | <img src="MyProfilAppscreenshots/Biodata.png" width="200" alt="Form Biodata"> | <img src="MyProfilAppscreenshots/Kontak.png" width="200" alt="Daftar Kontak"> |
+| <img src="screenshots/Splash.png" width="200" alt="Splash Screen"> | <img src="MyProfilAppscreenshots/Biodata.png" width="200" alt="Form Biodata"> | <img src="MyProfilAppscreenshots/Kontak.png" width="200" alt="Daftar Kontak"> |
 
 | Kalkulator | Info Cuaca | Berita |
 |------------|------------|--------|
