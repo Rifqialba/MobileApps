@@ -1,4 +1,4 @@
-# My Profile App 📱
+# Alba's App 📱
 
 Aplikasi Android lengkap yang dibangun dengan Java dan Android Studio, menampilkan berbagai fitur dalam satu aplikasi yang terintegrasi.
 
