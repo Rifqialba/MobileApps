@@ -19,7 +19,7 @@ Aplikasi Android lengkap yang dibangun dengan Java dan Android Studio, menampilk
 
 | Kalkulator | Info Cuaca | Berita |
 |------------|------------|--------|
-| <img src="MyProfileApp/screenshots/Kalkulator.png" width="200" alt="Kalkulator"> | <img src="MyProfileApp/screenshots/Cuaca.png" width="200" alt="Info Cuaca"> | <img src="MyProfileApp/screenshots/Berita.png" width="200" alt="Berita"> |
+| <img src="MyProfileApp/screenshots/Kalkulator.png" width="200" alt="Kalkulator"> | <img src="MyProfileApp/screenshots/Cuaca.png" width="200" alt="Info Cuaca"> | <img src="MyProfileApp/screenshots/berita.png" width="200" alt="Berita"> |
 
 ## 🛠️ Teknologi yang Digunakan
 
