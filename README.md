@@ -63,7 +63,7 @@ Aplikasi Android lengkap yang dibangun dengan Java dan Android Studio, menampilk
   # APK akan tersedia di app/build/outputs/apk/debug/
   ```
 ## 📁 Struktur Project
-
+```
 MobileApps/
 ├── app/
 │   └── src/main/
@@ -89,7 +89,7 @@ MobileApps/
 ├── build.gradle                           # App Level Gradle Config
 ├── README.md                              # Documentation
 └── settings.gradle                        # Project Settings
-
+```
 ## ✨ Detail Fitur Lengkap
 
 ### 🧍‍♂️ Biodata Fragment
@@ -160,9 +160,9 @@ dependencies {
 <div align="center">
 ⭐ Jika project ini membantu, jangan lupa beri star di repository!
 
-Dibuat dengan ❤️ menggunakan Android Studio dan Java
+Dibuat menggunakan Android Studio dan Java
 
-</div> ```
+</div> 
 
 
 
