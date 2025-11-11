@@ -15,11 +15,11 @@ Aplikasi Android lengkap yang dibangun dengan Java dan Android Studio, menampilk
 
 | Splash Screen | Form Biodata | Daftar Kontak |
 |---------------|--------------|---------------|
-| <img src="MyProfilApp/screenshots/Splash.png" width="200" alt="Splash Screen"> | <img src="MyProfilApp/screenshots/Biodata.png" width="200" alt="Form Biodata"> | <img src="MyProfilAppscreenshots/Kontak.png" width="200" alt="Daftar Kontak"> |
+| <img src="MyProfileApp/screenshots/Splash.png" width="200" alt="Splash Screen"> | <img src="MyProfileApp/screenshots/Biodata.png" width="200" alt="Form Biodata"> | <img src="MyProfilAppscreenshots/Kontak.png" width="200" alt="Daftar Kontak"> |
 
 | Kalkulator | Info Cuaca | Berita |
 |------------|------------|--------|
-| <img src="MyProfilApp/screenshots/Kalkulator.png" width="200" alt="Kalkulator"> | <img src="MyProfilApp/screenshots/Cuaca.png" width="200" alt="Info Cuaca"> | <img src="MyProfilApp/screenshots/Berita.png" width="200" alt="Berita"> |
+| <img src="MyProfileApp/screenshots/Kalkulator.png" width="200" alt="Kalkulator"> | <img src="MyProfileApp/screenshots/Cuaca.png" width="200" alt="Info Cuaca"> | <img src="MyProfileApp/screenshots/Berita.png" width="200" alt="Berita"> |
 
 ## 🛠️ Teknologi yang Digunakan
 
